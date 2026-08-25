@@ -1,0 +1,40 @@
+2024-08-19_16-37-49   Running PIPseeker v3.3.0
+2024-08-19_16-37-49   Copyright (c) 2024 Fluent BioSciences. All rights reserved.
+2024-08-19_16-37-50   PIPseeker is up to date
+2024-08-19_16-37-50   Total Memory: 31.3GiB 
+2024-08-19_16-37-50   Available Memory: 28.4GiB
+2024-08-19_16-37-50   Available Disk Space: 590.1GiB 
+2024-08-19_16-37-51   FASTQ size: 17.2GiB 
+2024-08-19_16-37-51   Read lengths: R1=150 bases; R2=150 bases
+2024-08-19_16-37-51   Starting barcode processor
+2024-08-19_17-02-10   Starting STAR
+2024-08-19_17-43-58   Reading BAM file
+2024-08-19_17-51-32   Read 180526241 lines from BAM file
+2024-08-19_17-51-36   Matching BAM data to genes
+2024-08-19_17-55-58   Processed 180526241 lines
+2024-08-19_17-55-58   Constructing molecule info object
+2024-08-19_17-59-53   Saving molecule info file
+2024-08-19_17-59-55   Generating raw matrix
+2024-08-19_18-00-49   Writing matrix files
+2024-08-19_18-00-58   Performing cell calling
+2024-08-19_18-01-05   Writing cell calling results
+2024-08-19_18-02-03   Running clustering
+2024-08-19_18-02-43   Generating Metrics
+2024-08-19_18-02-47   Creating summary report
+2024-08-19_18-02-48   PIPseeker completed successfully in 5098 seconds
+2024-08-19_18-02-59   Running PIPseeker v3.3.0
+2024-08-19_18-02-59   Copyright (c) 2024 Fluent BioSciences. All rights reserved.
+2024-08-19_18-03-00   PIPseeker is up to date
+2024-08-19_18-03-00   Total Memory: 31.3GiB 
+2024-08-19_18-03-00   Available Memory: 28.8GiB
+2024-08-19_18-03-00   Available Disk Space: 579.3GiB 
+2024-08-19_18-03-00   FASTQ size: 10.9GiB 
+2024-08-19_18-03-00   Read lengths: R1=150 bases; R2=150 bases
+2024-08-19_18-03-00   Starting barcode processor
+2024-08-19_18-18-10   Starting STAR
+2024-08-19_18-49-57   Reading BAM file
+2024-08-19_18-54-56   Read 109454353 lines from BAM file
+2024-08-19_18-54-59   Matching BAM data to genes
+2024-08-20_14-53-25    :: ERROR :: Run was interrupted by the user.
+
+

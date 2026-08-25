@@ -1,0 +1,358 @@
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+oligo KO_WT pos
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  115 
+## number of genes:  2187 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+oligo KO_WT neg
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  111 
+## number of genes:  3064 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+oligo KO_WT all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  111 
+## number of genes:  5251 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+iA KO_WT pos
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  113 
+## number of genes:  2263 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+iA KO_WT neg
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  112 
+## number of genes:  3389 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+iA KO_WT all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  113 
+## number of genes:  5652 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+cProg KO_WT pos
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  109 
+## number of genes:  1976 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+cProg KO_WT neg
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  115 
+## number of genes:  3448 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+cProg KO_WT all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  113 
+## number of genes:  5424 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+OBNB KO_WT pos
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  110 
+## number of genes:  2168 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+OBNB KO_WT neg
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  115 
+## number of genes:  2656 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+OBNB KO_WT all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  112 
+## number of genes:  4824 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+aIP KO_WT pos
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  108 
+## number of genes:  2254 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+aIP KO_WT neg
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  110 
+## number of genes:  3311 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+aIP KO_WT all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  113 
+## number of genes:  5565 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+oligo DKO_WT pos
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  114 
+## number of genes:  2363 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+oligo DKO_WT neg
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  111 
+## number of genes:  2968 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+oligo DKO_WT all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  112 
+## number of genes:  5331 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+iA DKO_WT pos
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  111 
+## number of genes:  2584 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+iA DKO_WT neg
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  109 
+## number of genes:  3163 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+iA DKO_WT all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  112 
+## number of genes:  5747 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+cProg DKO_WT pos
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  107 
+## number of genes:  2081 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+cProg DKO_WT neg
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  114 
+## number of genes:  3447 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+cProg DKO_WT all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  113 
+## number of genes:  5528 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+OBNB DKO_WT pos
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  110 
+## number of genes:  2231 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+OBNB DKO_WT neg
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  110 
+## number of genes:  2801 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+OBNB DKO_WT all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  113 
+## number of genes:  5032 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+aIP DKO_WT pos
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  112 
+## number of genes:  2733 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+aIP DKO_WT neg
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  110 
+## number of genes:  2989 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+aIP DKO_WT all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  113 
+## number of genes:  5722 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+oligo DKO_KO pos
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  108 
+## number of genes:  2786 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+oligo DKO_KO neg
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  112 
+## number of genes:  2412 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+oligo DKO_KO all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  113 
+## number of genes:  5198 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+iA DKO_KO pos
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  109 
+## number of genes:  3064 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+iA DKO_KO neg
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  113 
+## number of genes:  2557 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+iA DKO_KO all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  112 
+## number of genes:  5621 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+cProg DKO_KO pos
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  116 
+## number of genes:  2634 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+cProg DKO_KO neg
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  111 
+## number of genes:  2764 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+cProg DKO_KO all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  112 
+## number of genes:  5398 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+OBNB DKO_KO pos
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  111 
+## number of genes:  2552 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+OBNB DKO_KO neg
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  106 
+## number of genes:  2545 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+OBNB DKO_KO all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  111 
+## number of genes:  5097 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+aIP DKO_KO pos
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  114 
+## number of genes:  3198 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+aIP DKO_KO neg
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  110 
+## number of genes:  2544 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+aIP DKO_KO all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  112 
+## number of genes:  5742 
+## number of cores:  20 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+R version 4.4.1 (2024-06-14)
+Platform: x86_64-pc-linux-gnu
+Running under: Debian GNU/Linux 12 (bookworm)
+
+Matrix products: default
+BLAS:   /nfs/scistore07/clustersw/debian/bookworm/R/4.4.1/lib/R/lib/libRblas.so 
+LAPACK: /nfs/scistore07/clustersw/debian/bookworm/R/4.4.1/lib/R/lib/libRlapack.so;  LAPACK version 3.12.0
+
+locale:
+[1] C
+
+time zone: Europe/Vienna
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] iDEA_1.0.1
+
+loaded via a namespace (and not attached):
+ [1] compiler_4.4.1    snow_0.4-4        doSNOW_1.0.20     parallel_4.4.1   
+ [5] Rcpp_1.0.13       codetools_0.2-20  doParallel_1.0.17 iterators_1.0.14 
+ [9] foreach_1.5.2     pbmcapply_1.5.1  

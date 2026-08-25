@@ -1,0 +1,26 @@
+Include,Exclude
+gliogenesis,T cell
+tumor cell,B cell
+radial glia,leukocyte
+mitotic cell cycle,mononuclear
+Notch,chondrocyte
+MAPK,lymphocyte
+neuronal stem cell,osteoblast
+TOR,fibroblast
+JAK-STAT,muscle
+epidermal growth factor,meiosis
+astrocyte ,meiotic
+forebrain development,mesenchymal
+cell cycle process,pancreatic
+programmed cell death,vascular
+,vasculogenesis
+,angiogenesis
+,natural killer
+,immune
+,retinal
+,symbiont
+,larval
+,heart
+,lung
+,blastoderm
+,preblastoderm
