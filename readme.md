@@ -1,6 +1,6 @@
-# Role of *Pten* in RGP Lineage Progression
+# *Pten* regulates neurogenic radial glia lineage progression and tunes neocortical astrocyte production in *Mapk1/3*-dependent pathway
 
-Raw figures/tables as well as scripts for analyses of RNA-Seq data in Miranda et al. under revision
+Raw figures/tables as well as scripts for analyses of RNA-Seq data in Miranda et al. Science Advances 2026
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ this folder contains data relevant for the [bioRvix version of the manuscript](h
 
 this folder contains data/plots/scripts relevant for the latest version of the manuscript.
 
-The folder plots contains relevant data for Main figures (folder main), Supplementary figures (folder Supplement), Quality Control (folder QC) and Reviewer's figures used to reply to reviewer's comments (folder reviewer).
+The folder plots contains relevant data for Main figures (folder main), Supplementary figures (folder Supplement), Quality Control (folder QC) and Reviewers' figures used to reply to reviewers' comments (folder reviewer).
 
 Note that some information on figures that did not change during the review process are available in the biorvix folder with a different figure number:
 
